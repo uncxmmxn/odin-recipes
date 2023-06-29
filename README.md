@@ -1,1 +1,2 @@
 # odin-recipes
+This basic recipe website is intended to demonstrate the html skills learned so far in the odin project course. This project will be using absolute and relative links, ordered and unordered lists, and images.
