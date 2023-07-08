@@ -5,3 +5,19 @@ a {
 body {
     background-color: salmon;
 }
+
+.head {
+    border: 8px solid;
+    border-color: azure;
+    text-align: center;
+}
+
+li {
+    margin: 8px;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+    width: 500px;
+}
